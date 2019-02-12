@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:700');
+
+#outer {
+  background-color: #ffffff;
+  height: 100vh;
+  overflow-x: hidden;
+  font-family: 'Cinzel', serif !important;
+}
+.navbar {
+  box-shadow: 0px 1px 10px #000000;
+  background-color: #192631;
+}
+
+.card {
+  width: 150px;
+  height: 75px;
+  margin: 10px;
+  border: none;
+  -webkit-box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
+}
+
+.info-card {
+  margin: 10px;
+  border: none;
+  -webkit-box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 3px 13px 4px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
+}
+
+.card-body {
+  height: 20px;
+  color: #000000;
+  font-size: 14px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  white-space: nowrap;
+}
+
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 990;
+}
+
+.modal .overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 995;
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.modal .modal_content {
+  z-index: 999;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-height: 90%;
+  overflow: auto;
+  color: #ffffff;
+  background: #333;
+  box-sizing: border-box;
+  padding: 20px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+  border-radius: 4px;
+  width: 1200px;
+}
+
+.modal .modal_content > h2 {
+  font-size: 28px;
+  font-weight: 200;
+  margin: 20px 0 40px;
+  text-align: center;
+}
+
+.modal .modal_content .buttons_wrapper {
+  padding: 20px;
+}
+
+.modal .close_modal {
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  cursor: pointer;
+  font-size: 18px;
+  opacity: 0.5;
+  background: none;
+  border: none;
+  transition: opacity 0.2s ease;
+}
+
+.modal .close_modal:hover {
+  opacity: 0.9;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+#outer .container-fluid .image-responsive {
+  border-left: solid black 3px;
+  border-top: solid black 3px;
+  border-right: solid #555 3px;
+  border-bottom: solid #555 3px;
+}
+
+#portrait {
+  border-left: solid black 3px;
+  border-top: solid black 3px;
+  border-right: solid #555 3px;
+  border-bottom: solid #555 3px;
+}
+
+.card-formatting-top {
+  background-color: #192631;
+  color: white;
+  border-left: solid black 3px;
+  border-top: solid black 3px;
+  border-right: solid #4444 3px;
+  white-space: nowrap;
+  border-bottom: solid #555 1px;
+}
+
+.card-formatting-bottom {
+  background-color: #192631;
+  color: #b4bcca;
+  border-left: solid black 3px;
+  border-right: solid #4444 3px;
+  border-bottom: solid #555 3px;
+}
+
+.fas {
+  color: white;
+}
+
+.hero-info {
+  text-align: center;
+}
