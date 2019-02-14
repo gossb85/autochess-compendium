@@ -10,9 +10,6 @@ class Navbar extends Component {
           </a>
           <ul className='nav navbar-nav ml-auto'>
             <li className='nav-item mx-2'>
-              <i className='fas fa-palette' />
-            </li>
-            <li className='nav-item mx-2'>
               <i className='fas fa-info-circle' />
             </li>
           </ul>

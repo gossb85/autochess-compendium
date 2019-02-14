@@ -147,3 +147,12 @@ input[type='checkbox'] {
 .hero-info {
   text-align: center;
 }
+
+#outer .race-card,
+#outer .hero-class-card,
+#outer .courier-card {
+  background-color: #192631;
+  color: white;
+  font-size: 22px;
+  border-radius: 0;
+}
