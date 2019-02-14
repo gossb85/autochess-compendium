@@ -27,6 +27,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/vdiLnX1.png',
+    miniIcon: 'https://i.imgur.com/4K0ku5o.png',
     rank1: 'https://i.imgur.com/cwUZfVV.jpg',
     number: 1
   },
@@ -55,10 +56,11 @@ export default [
     ability1Damage: 'Damage: 15/25/35 per second',
     ability1Cooldown: 'Cooldown: 10',
     ability1Description: 'Alchemist sprays high-pressure acid across a target area. Enemy units who step across the contaminated terrain take damage per second and have their armor reduced by 5/8/11.',
-    ability2Icon: '',
+    ability2Icon: 'https://i.imgur.com/1kpChHn.png',
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/ewA7FAM.png',
+    miniIcon: 'https://i.imgur.com/ea5F00H.png',
     rank1: 'https://i.imgur.com/zYytjGL.png',
     number: 2
   },
@@ -89,6 +91,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/A9OCs2j.png',
+    miniIcon: 'https://i.imgur.com/wxQV8Yq.png',
     rank1: 'https://i.imgur.com/wt40P7O.png',
     number: 3
   },
@@ -120,6 +123,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/JH8VOhP.png',
+    miniIcon: 'https://i.imgur.com/BDzvVFD.png',
     rank1: 'https://i.imgur.com/SSM0HRb.png',
     number: 4
   },
@@ -151,6 +155,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/4PToigc.png',
+    miniIcon: 'https://i.imgur.com/fx5IkLV.png',
     rank1: 'https://i.imgur.com/lOAHq7q.png',
     number: 5
   },
@@ -183,6 +188,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/oJTLtzk.png',
+    miniIcon: 'https://i.imgur.com/4un0RfH.png',
     rank1: 'https://i.imgur.com/Lb4ZtSa.png',
     number: 6
   },
@@ -213,6 +219,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/0jDQwHd.png',
+    miniIcon: 'https://i.imgur.com/QGHGZwz.png',
     rank1: 'https://i.imgur.com/kqqLgVI.png',
     number: 7
   },
@@ -243,6 +250,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/6IULKu3.png',
+    miniIcon: 'https://i.imgur.com/jNzyxso.png',
     rank1: 'https://i.imgur.com/DVEXtqJ.png',
     number: 8
   },
@@ -274,6 +282,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/PwiVlz9.png',
+    miniIcon: 'https://i.imgur.com/I1aKjCz.png',
     rank1: 'https://i.imgur.com/HJ2oJ9K.png',
     number: 9
   },
@@ -303,6 +312,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/39LtVZW.png',
+    miniIcon: 'https://i.imgur.com/UIiMQBZ.png',
     rank1: 'https://i.imgur.com/pkaYS3s.png',
     number: 10
   },
@@ -339,6 +349,7 @@ export default [
     ability2Description: 'Transforms an enemy unit into a harmless frog, disabling all attacks and abilities for the duration of the effect.',
     cost: '4',
     portrait: 'https://i.imgur.com/Lfzq24Z.png',
+    miniIcon: 'https://i.imgur.com/ROoPggj.png',
     rank1: 'https://i.imgur.com/CyDmLnF.png',
     number: 11
   },
@@ -370,6 +381,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/p4f7VrE.png',
+    miniIcon: 'https://i.imgur.com/419uRut.png',
     rank1: 'https://i.imgur.com/TotTLYN.jpg',
     number: 12
   },
@@ -402,6 +414,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/9x8yK0J.png',
+    miniIcon: 'https://i.imgur.com/sL0XOym.png',
     rank1: 'https://i.imgur.com/I2qD0nd.png',
     number: 13
   },
@@ -429,6 +442,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/t80klYt.png',
+    miniIcon: 'https://i.imgur.com/09JLXJR.png',
     rank1: 'https://i.imgur.com/J5krXWw.png',
     number: 14
   },
@@ -460,6 +474,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/0VBOF5I.png',
+    miniIcon: 'https://i.imgur.com/3RmiT5T.png',
     rank1: 'https://i.imgur.com/ZtWuymX.png',
     number: 15
   },
@@ -492,6 +507,7 @@ export default [
     ability2Name: '',
     cost: '5',
     portrait: 'https://i.imgur.com/91afsPO.png',
+    miniIcon: 'https://i.imgur.com/VUFYOSD.png',
     rank1: 'https://i.imgur.com/k1aNENj.png',
     number: 16
   },
@@ -521,6 +537,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/keHl3rP.png',
+    miniIcon: 'https://i.imgur.com/x2XpPUY.png',
     rank1: 'https://i.imgur.com/CWJrsoT.png',
     number: 17
   },
@@ -553,6 +570,7 @@ export default [
     ability2Name: '',
     cost: '5',
     portrait: 'https://i.imgur.com/wuTmVmq.png',
+    miniIcon: 'https://i.imgur.com/tpCL4HZ.png',
     rank1: 'https://i.imgur.com/1IhPzr6.png',
     number: 18
   },
@@ -584,6 +602,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/ho3CyQR.png',
+    miniIcon: 'https://i.imgur.com/8w8Yebh.png',
     rank1: 'https://i.imgur.com/FZsCFMA.png',
     number: 19
   },
@@ -615,6 +634,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/UCIPtkg.png',
+    miniIcon: 'https://i.imgur.com/jJ8EV13.png',
     rank1: 'https://i.imgur.com/NcQfisb.png',
     number: 20
   },
@@ -647,6 +667,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/C9xLBHS.png',
+    miniIcon: 'https://i.imgur.com/E7J0ZA7.png',
     rank1: 'https://i.imgur.com/VnQaQYk.png',
     number: 21
   },
@@ -679,6 +700,7 @@ export default [
     ability2Name: '',
     cost: '5',
     portrait: 'https://i.imgur.com/TdXnv66.png',
+    miniIcon: 'https://i.imgur.com/YI0QoSt.png',
     rank1: 'https://i.imgur.com/gwmOjBQ.png',
     number: 22
   },
@@ -709,6 +731,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/8QIjXwo.png',
+    miniIcon: 'https://i.imgur.com/B5kjDvK.png',
     rank1: 'https://i.imgur.com/jOzcjZP.png',
     number: 23
   },
@@ -738,6 +761,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/5koYzH4.png',
+    miniIcon: 'https://i.imgur.com/5idBYqL.png',
     rank1: 'https://i.imgur.com/hzhsyoE.png',
     number: 24
   },
@@ -769,6 +793,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/UDiw1PH.png',
+    miniIcon: 'https://i.imgur.com/AQsxZZ6.png',
     rank1: 'https://i.imgur.com/CPCPhiK.png',
     number: 25
   },
@@ -803,6 +828,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/gsdho2W.png',
+    miniIcon: 'https://i.imgur.com/chfzgxE.png',
     rank1: 'https://i.imgur.com/32Aj6oz.png',
     number: 26
   },
@@ -835,6 +861,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/Hfdrt3z.png',
+    miniIcon: 'https://i.imgur.com/pLGa05x.png',
     rank1: 'https://i.imgur.com/l5d9OOi.png',
     number: 27
   },
@@ -863,6 +890,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/h8N1zF9.png',
+    miniIcon: 'https://i.imgur.com/X4NqHqR.png',
     rank1: 'https://i.imgur.com/skyq0IA.jpg',
     number: 28
   },
@@ -890,6 +918,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/BtNkMWS.png',
+    miniIcon: 'https://i.imgur.com/ZUsQSIN.png',
     rank1: 'https://i.imgur.com/XTG57n3.png',
     number: 29
   },
@@ -919,6 +948,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/TtiZx5c.png',
+    miniIcon: 'https://i.imgur.com/9vwmTnW.png',
     rank1: 'https://i.imgur.com/sIfAjPZ.png',
     number: 30
   },
@@ -950,6 +980,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/pQtKwdD.png',
+    miniIcon: 'https://i.imgur.com/r9exAkp.png',
     rank1: 'https://i.imgur.com/DWYsMlt.png',
     number: 31
   },
@@ -979,6 +1010,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/otTuibl.png',
+    miniIcon: 'https://i.imgur.com/fDtfXiY.png',
     rank1: 'https://i.imgur.com/eSWoLbV.png',
     number: 32
   },
@@ -1012,6 +1044,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/DppMbXA.png',
+    miniIcon: 'https://i.imgur.com/A04SJYo.png',
     rank1: 'https://i.imgur.com/WQiMa5I.png',
     number: 33
   },
@@ -1043,6 +1076,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/wNwhkZ2.png',
+    miniIcon: 'https://i.imgur.com/CFUU9qp.png',
     rank1: 'https://i.imgur.com/eARINj1.png',
     number: 34
   },
@@ -1075,6 +1109,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/uyE9KN5.png',
+    miniIcon: 'https://i.imgur.com/5tM6BEB.png',
     rank1: 'https://i.imgur.com/QgFgaZS.png',
     number: 35
   },
@@ -1106,6 +1141,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/am8BHgu.png',
+    miniIcon: 'https://i.imgur.com/8cgYQhE.png',
     rank1: 'https://i.imgur.com/O9k0MEq.png',
     number: 36
   },
@@ -1137,6 +1173,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/aqciBOn.png',
+    miniIcon: 'https://i.imgur.com/jb9cdtw.png',
     rank1: 'https://i.imgur.com/wt04Sbz.png',
     number: 37
   },
@@ -1166,6 +1203,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/vWGguPA.png',
+    miniIcon: 'https://i.imgur.com/1A5N2pJ.png',
     rank1: 'https://i.imgur.com/Z8ZbywV.png',
     number: 38
   },
@@ -1195,6 +1233,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/ZjxawsK.png',
+    miniIcon: 'https://i.imgur.com/ldKR7Kc.png',
     rank1: 'https://i.imgur.com/4scDdsi.png',
     number: 39
   },
@@ -1223,6 +1262,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/wpVnCfx.png',
+    miniIcon: 'https://i.imgur.com/PDCdau2.png',
     rank1: 'https://i.imgur.com/4EedkHu.png',
     number: 40
   },
@@ -1253,6 +1293,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/CGD8D5m.png',
+    miniIcon: 'https://i.imgur.com/GlkKZ78.png',
     rank1: 'https://i.imgur.com/njIWyfl.png',
     number: 41
   },
@@ -1285,6 +1326,7 @@ export default [
     ability2Name: '',
     cost: '5',
     portrait: 'https://i.imgur.com/GC40jt5.png',
+    miniIcon: 'https://i.imgur.com/mtCuUQF.png',
     rank1: 'https://i.imgur.com/GzXgCLt.png',
     number: 42
   },
@@ -1315,6 +1357,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/T80yXSM.png',
+    miniIcon: 'https://i.imgur.com/du3GF7B.png',
     rank1: 'https://i.imgur.com/eugDcEb.png',
     number: 43
   },
@@ -1345,6 +1388,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/FY1uSR4.png',
+    miniIcon: 'https://i.imgur.com/3m1jmhz.png',
     rank1: 'https://i.imgur.com/DTRpBag.jpg',
     number: 44
   },
@@ -1377,6 +1421,7 @@ export default [
     ability2Name: '',
     cost: '5',
     portrait: 'https://i.imgur.com/gJleybw.png',
+    miniIcon: 'https://i.imgur.com/8oXYZyJ.png',
     rank1: 'https://i.imgur.com/YHxEDWk.png',
     number: 45
   },
@@ -1407,6 +1452,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/1OsHlPc.png',
+    miniIcon: 'https://i.imgur.com/JrC14Af.png',
     rank1: 'https://i.imgur.com/lPXXgdN.png',
     number: 46
   },
@@ -1437,6 +1483,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/BWK8E6B.png',
+    miniIcon: 'https://i.imgur.com/7hc1ZMX.png',
     rank1: 'https://i.imgur.com/IkqGx0a.png',
     number: 47
   },
@@ -1469,6 +1516,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/0ec5IX5.png',
+    miniIcon: 'https://i.imgur.com/S0MIrek.png',
     rank1: 'https://i.imgur.com/fj8djit.png',
     number: 48
   },
@@ -1501,6 +1549,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/yG2721e.png',
+    miniIcon: 'https://i.imgur.com/iEV7rZq.png',
     rank1: 'https://i.imgur.com/AYXjlMa.png',
     number: 49
   },
@@ -1528,6 +1577,7 @@ export default [
     ability2Name: '',
     cost: '4',
     portrait: 'https://i.imgur.com/mxXq90f.png',
+    miniIcon: 'https://i.imgur.com/oPGJuvm.png',
     rank1: 'https://i.imgur.com/E1XDe0S.png',
     number: 50
   },
@@ -1558,6 +1608,7 @@ export default [
     ability2Name: '',
     cost: '1',
     portrait: 'https://i.imgur.com/wOYddg2.png',
+    miniIcon: 'https://i.imgur.com/Uite3vC.png',
     rank1: 'https://i.imgur.com/c7ISpMw.png',
     number: 51
   },
@@ -1590,6 +1641,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/PxSDzQG.png',
+    miniIcon: 'https://i.imgur.com/jwJmwp7.png',
     rank1: 'https://i.imgur.com/cPrrHmx.png',
     number: 52
   },
@@ -1621,6 +1673,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/Fu00rWZ.png',
+    miniIcon: 'https://i.imgur.com/q9Muu1X.png',
     rank1: 'https://i.imgur.com/I0EZaQG.png',
     number: 53
   },
@@ -1652,6 +1705,7 @@ export default [
     ability2Name: '',
     cost: '3',
     portrait: 'https://i.imgur.com/FMQeLCR.png',
+    miniIcon: 'https://i.imgur.com/jxtC2gq.png',
     rank1: 'https://i.imgur.com/kzViJd1.png',
     number: 54
   },
@@ -1684,6 +1738,7 @@ export default [
     ability2Name: '',
     cost: '2',
     portrait: 'https://i.imgur.com/P2GeAEx.png',
+    miniIcon: 'https://i.imgur.com/LnmvaBK.png',
     rank1: 'https://i.imgur.com/9hG0n45.png',
     number: 55
   }
